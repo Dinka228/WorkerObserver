@@ -1,0 +1,8 @@
+{
+  "name": "WorkerObserver",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.6.0"
+  }
+}
