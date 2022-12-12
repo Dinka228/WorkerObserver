@@ -75,7 +75,7 @@ const Projects = observer(({showCreate}) => {
                                         </div>
 
                                     <MDBDropdown >
-                                        <MDBDropdownToggle>Участники</MDBDropdownToggle>
+                                        <MDBDropdownToggle>Учасники</MDBDropdownToggle>
                                         <MDBDropdownMenu>
                                             {worker.workersProject.filter(workers=>{
 
